@@ -1,0 +1,20 @@
+body {
+	background-color: rgb(198, 224, 248);
+	color: white;
+	font-family: 'Gill Sans';
+}
+#card {
+	background-color: rgb(39, 108, 173);
+	height: 530px;
+	width: 300px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 20px;
+	margin: 20px;
+}
+#card img {
+	height: 200px;
+	border-radius: 20px;
+}
